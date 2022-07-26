@@ -1,0 +1,11 @@
+.newPosts {
+  display: flex;
+}
+.newPosts textarea {
+  width: 40%;
+  height: auto;
+  margin:5px 10px;
+}
+.newPosts button {
+  margin: 0 10px;
+}

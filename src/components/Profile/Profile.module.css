@@ -1,0 +1,11 @@
+
+.profileContent {
+    display: grid;
+    grid-template-rows: 200px 1fr;
+    grid-template-columns: 1.5fr 8fr;
+    grid-template-areas: 
+    "b b"
+    "l c";
+    grid-gap: 10px;
+    margin: 10px;
+}

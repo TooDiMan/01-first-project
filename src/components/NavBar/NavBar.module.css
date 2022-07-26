@@ -1,0 +1,29 @@
+.navigation {
+  grid-area: n;
+  background-color: blue;
+  height: 60vh;
+}
+
+.navigation-list {
+  margin: 5px 0;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.setting {
+  margin: 20px 0;
+}
+
+.setting a{
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.list {
+  margin: 7px 0;
+}

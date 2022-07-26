@@ -1,0 +1,11 @@
+.banner {
+  grid-area: b;
+}
+.backgroundImg {
+  width: 100%;
+  height: 200px;
+}
+span {
+  margin-left: 10px;
+}
+

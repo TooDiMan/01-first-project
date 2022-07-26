@@ -1,0 +1,9 @@
+.post {
+  display: flex;
+  margin: 10px 0;
+  color: white;
+}
+.post img {
+  width: 3rem;
+}
+
